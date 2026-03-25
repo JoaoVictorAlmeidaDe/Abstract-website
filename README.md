@@ -16,14 +16,12 @@ Website inspirado no layout da Abstract.
 abstract-website
 │
 ├── index
-├── jobs.html
-├── Apprenticeships.html
+├── index.html
 │
-├── _Ableton.css
-├── jobs.css
-├── Apprenticeships.css
+├── css
+├── style-one.css
 │
-└── _imagens
+└── imagens
 ```
 
 ## Autor
