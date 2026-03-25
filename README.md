@@ -7,7 +7,7 @@ Website inspirado no layout da Abstract.
 
 ## Preview
 
-[![Watch the video]()]()
+[![Watch the video]()](https://youtu.be/gkMzlsfdkIM)
 
 🔗 Live Demo: https://github.com/JoaoVictorAlmeidaDe/Abstract-website.git
 
